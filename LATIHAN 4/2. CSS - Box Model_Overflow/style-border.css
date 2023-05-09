@@ -1,0 +1,17 @@
+p
+{
+    border: 2px solid red;
+    /* border garis lurus */
+}
+
+h4
+{
+    border: 2px dotted blue;
+    /* border garis putus-putus kecil */
+}
+
+h3
+{
+    border: 2px dashed lightgreen;
+    /* border garis putus-putus panjang */
+}
