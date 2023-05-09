@@ -1,0 +1,14 @@
+img
+{
+    float: left;
+    width: 250px;
+    padding-left: 20px;
+}
+
+p
+{
+    background-color: darkgreen;
+    padding-top: 53px;
+    padding-bottom: 52px;
+    color: white;
+}
