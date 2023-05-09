@@ -1,0 +1,10 @@
+div
+{
+    width: 100px;
+    height: 100px;
+    position: static;
+}
+
+.satu {background-color: #BADA55;}
+.dua {background-color: #9b59b6;}
+.tiga {background-color: #f1c40f;}
