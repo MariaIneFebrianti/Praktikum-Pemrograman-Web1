@@ -1,1 +1,2 @@
-span {background: orange; width: 100px; height: 50px; display: none;}
+span {
+    background: orange; width: 80px; height: 50px; display: inline-block;}

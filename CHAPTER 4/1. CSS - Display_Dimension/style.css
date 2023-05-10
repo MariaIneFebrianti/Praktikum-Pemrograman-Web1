@@ -1,6 +1,6 @@
 #header {
     background: #00ccff;
-    height: 10%;
+    height: 10%;/* tinggi header */
     font-size: 1.5em;
     text-align: center;
     padding-top: 20px;
@@ -10,8 +10,8 @@
 #sidebar {
     background: #99ccff;
     float: left;
-    height: 400px;
-    width: 40%;
+    height: 400px; /* tinggi sidebar */
+    width: 40%; /* lebar sidebar */
     font-size: 1.5em;
     text-align: center; 
     padding-top: 20px; /*jarak border ke konten atas*/
@@ -20,9 +20,9 @@
 
 #content {
     background: #9999ff;
-    float: right;
-    width: 60%;
-    height: 400px;
+    float: right; /* property untuk mengatur elemen mengapung atau tidak */
+    width: 60%; /* lebar content */
+    height: 400px; /* tinggi content */
     font-size: 1.5em;
     text-align: center;
     padding-top: 20px;
@@ -30,7 +30,7 @@
 
 #footer {
     background: #3399ff;
-    clear: both;
+    clear: both; /* property untuk membersihkan element yang sebelumnya telah mengalami float */
     font-size: 1.5em;
     text-align: center;
 }
