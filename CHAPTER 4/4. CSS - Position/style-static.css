@@ -1,0 +1,20 @@
+#first-box {
+    width: 100px;
+    height: 100px;
+    background-color: lightsalmon;
+    position: static;
+}
+
+#second-box {
+    width: 100px;
+    height: 100px;
+    background-color: lightgreen;
+    position: relative;
+}
+
+#third-box {
+    width: 100px;
+    height: 100px;
+    background-color: lightslategray;
+    position: fixed;
+}
