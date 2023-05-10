@@ -11,7 +11,7 @@
     background: #99ccff;
     float: left;
     height: 400px;
-    width: 30%;
+    width: 40%;
     font-size: 1.5em;
     text-align: center; 
     padding-top: 20px; /*jarak border ke konten atas*/
@@ -21,7 +21,7 @@
 #content {
     background: #9999ff;
     float: right;
-    width: 70%;
+    width: 60%;
     height: 400px;
     font-size: 1.5em;
     text-align: center;
