@@ -1,6 +1,6 @@
 <fieldset>
     <legend>Menggunakan Methode POST</legend>
-        <form name="form1" method="post" action="proses_post.php">
+        <form name="form1" method="post" action="4. proses_post.php">
             <table width="288" border="1">
                 <tr>
                     <td width="95">Nama</td>
