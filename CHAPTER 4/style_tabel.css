@@ -5,18 +5,17 @@ table {
     background: #ecf3eb;
 }
 
-caption h3 {}
-
 th,
 td {
     border: 1px solid #999;
 }
 
 th {
-    padding: 8px 0;
+    padding: 8px 100px;
     background: #0cf;
 }
 
 td {
     padding: 4px 8px;
+    /* jarak atas dengan teksnya */
 }

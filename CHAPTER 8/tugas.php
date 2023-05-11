@@ -23,21 +23,16 @@
 <?php
     $n=$_POST['nilai'];
     $ganjil=true;
-    for($i=1; $i<=$n; $i++)
-    {
-        if(($n%2)==0)
-        $ganjil=false;
-        break;
-    }
-    if($ganjil)
+    if(($n%2)==0)
     {
         echo "<br>";
-        echo "Angka " . $n . " adalah bilangan ganjil.";
+        echo $n . " Adalah bilangan Genap.";
     }else
     {
         echo "<br>";
-        echo "Angka " . $n . " adalah bilangan genap.";
+        echo $n . " Adalah bilangan Ganjil.";
     }
+    
 ?>
 
 
